@@ -1,0 +1,81 @@
+product_id,product_name,brand,category,overall_rating,total_reviews,platform,price,original_price,discount_percent,stock_available,special_offer,review_author,review_rating,review_date,review_text,review_helpful_count
+1,MacBook Pro 14-inch M3 Chip,Apple,laptops,4.8,2847,Amazon,164990,179900,8,TRUE,Bank Offer: 10% off with HDFC Credit Card,Rajesh Kumar,5,2 days ago,Absolutely brilliant laptop! The M3 chip is incredibly fast. Battery life is outstanding - easily lasts a full workday. Best purchase I've made this year!,234
+1,MacBook Pro 14-inch M3 Chip,Apple,laptops,4.8,2847,Flipkart,168990,179900,6,TRUE,Exchange: Up to ₹15000 off,Priya Sharma,4,1 week ago,Great performance and build quality. Display is stunning. Only complaint is the price but you get what you pay for with Apple.,156
+1,MacBook Pro 14-inch M3 Chip,Apple,laptops,4.8,2847,Croma,172990,179900,4,yes,No Cost EMI available,Amit Patel,5,2 weeks ago,Perfect for video editing. Final Cut Pro runs like butter. No heating issues even under heavy load. Highly recommended!,189
+1,MacBook Pro 14-inch M3 Chip,Apple,LAPTOPS,4.8,2847,Reliance Digital,163990,179900,9,TRUE,Free AirPods worth ₹12000,,,,,
+2,Dell XPS 15 (Intel i7 16GB RAM RTX 4050),Dell,laptops,4.6,1523,Amazon,109990,124990,12,TRUE,10% Instant Discount with SBI Cards,Vikram Singh,5,3 days ago,Excellent laptop for programming and gaming. The RTX 4050 handles modern games well. Build quality is premium.,98
+2,Dell XPS 15 (Intel i7 16GB RAM RTX 4050),Dell,laptops,4.6,1523,Flipkart,112990,124990,10,1,Exchange up to ₹18000,Neha Gupta,4,1 week ago,Good performance but runs a bit hot during intensive tasks. Display is gorgeous though!,67
+2,Dell XPS 15 (Intel i7 16GB RAM RTX 4050),dell,laptops,4.6,1523,Dell Store,114990,124990,8,TRUE,Extended Warranty for ₹4999,,,,,
+2,,Dell,laptops,4.6,1523,Vijay Sales,108990,124990,13,TRUE,Free Dell Backpack worth ₹3500,,,,,
+3,HP Pavilion 15.6-inch Laptop (Ryzen 5 8GB RAM),HP,laptops,4.4,1876,Amazon,52990,65990,20,TRUE,Coupon: Extra ₹2000 off,Suresh Menon,4,5 days ago,Great value for money! Perfect for daily tasks browsing and office work. Lightweight and portable.,145
+3,HP Pavilion 15.6-inch Laptop (Ryzen 5 8GB RAM),HP,laptops,4.4,,Flipkart,54990,65990,17,TRUE,No Cost EMI from ₹4416/month,,,,,
+3,HP Pavilion 15.6-inch Laptop (Ryzen 5 8GB RAM),HP,laptops,4.4,1876,HP Store,57990,65990,12,TRUE,Free HP Mouse + Bag,,,,,
+3,HP Pavilion 15.6-inch Laptop (Ryzen 5 8GB RAM),Hp,laptops,4.4,1876,Croma,52490,65990,20,1,Bajaj Finserv EMI available,,,,,
+4,iPhone 15 Pro Max 256GB (Natural Titanium),Apple,mobiles,4.9,5432,Amazon,144900,159900,9,TRUE,Exchange: Up to ₹45000 off,Arjun Reddy,5,1 day ago,Camera quality is insane! The titanium build feels premium. Battery easily lasts full day with heavy use. Worth every penny!,456
+4,iPhone 15 Pro Max 256GB (Natural Titanium),Apple,mobiles,4.9,5432,Flipkart,146900,159900,8,yes,Bank Offer: ₹8000 instant discount,Kavya Iyer,5,4 days ago,Upgraded from iPhone 12. The difference is night and day. Action button is super useful. Best iPhone yet!,321
+4,iPhone 15 Pro Max 256GB (Natural Titanium),Apple,Mobiles,4.9,5432,Croma,149900,159900,6,TRUE,Free AirTag worth ₹3190,Rahul Mehta,4,1 week ago,Excellent phone but very expensive. If budget allows go for it. iOS ecosystem is unbeatable.,278
+4,iPhone 15 Pro Max 256GB,Apple,mobiles,4.9,5432,Reliance Digital,143900,159900,10,TRUE,Jio Prepaid: 2 Years Unlimited,,,,,
+5,Samsung Galaxy S24 Ultra 256GB (Titanium Gray),Samsung,mobiles,4.7,3876,Amazon,119999,134999,11,TRUE,No Cost EMI from ₹10000/month,Deepak Joshi,5,2 days ago,200MP camera is absolutely stunning! S-Pen functionality is incredibly useful. Best Android phone available!,389
+5,Samsung Galaxy S24 Ultra 256GB (Titanium Gray),Samsung,mobiles,,3876,Flipkart,121999,134999,10,TRUE,Exchange: Up to ₹38000,Ananya Das,4,1 week ago,Great phone overall. Screen is gorgeous. Battery life could be better with heavy use though.,234
+5,Samsung Galaxy S24 Ultra 256GB (Titanium Gray),samsung,mobiles,4.7,3876,Samsung Store,124999,134999,7,1,Free Galaxy Buds2 Pro,,,,,
+5,Samsung Galaxy S24 Ultra 256GB (Titanium Gray),Samsung,mobiles,4.7,3876,Vijay Sales,118999,134999,,TRUE,Cashback ₹5000,,,,,
+6,OnePlus 12 5G (16GB RAM 512GB),OnePlus,mobiles,4.6,4532,Amazon,64999,69999,7,TRUE,Combo: Free Buds Z2 worth ₹4999,Karthik Nair,5,3 days ago,Blazing fast! 100W charging is a game changer. Camera quality rivals flagships. Best value flagship!,512
+6,OnePlus 12 5G (16GB RAM 512GB),OnePlus,mobiles,4.6,4532,Flipkart,63999,69999,9,yes,Exchange up to ₹25000,Sneha Kapoor,5,5 days ago,Switched from iPhone. OxygenOS is smooth and clean. No regrets! Display is absolutely gorgeous.,398
+6,OnePlus 12 5G (16GB RAM 512GB),Oneplus,mobiles,4.6,4532,OnePlus Store,66999,69999,4,TRUE,Red Cable Club: ₹3000 voucher,,,,,
+6,,OnePlus,mobiles,4.6,4532,Reliance Digital,62999,69999,10,TRUE,12-month Screen Damage Protection,,,,,
+7,Sony Bravia 55-inch 4K OLED TV (XR-55A80L),Sony,tvs,4.8,2145,Amazon,119990,139990,14,TRUE,Bank Offer: ₹10000 instant discount,Vivek Malhotra,5,1 week ago,Picture quality is phenomenal! Blacks are truly black. Sound quality with Acoustic Surface Audio is impressive. Home theatre experience!,267
+7,Sony Bravia 55-inch 4K OLED TV (XR-55A80L),Sony,TVs,4.8,2145,Flipkart,121990,139990,13,1,Exchange: Old TV up to ₹15000,Meera Krishnan,5,2 weeks ago,Best TV I've owned. Netflix and Prime Video look stunning in 4K. Google TV interface is smooth. Highly recommended!,198
+7,Sony Bravia 55-inch 4K OLED TV (XR-55A80L),sony,tvs,4.8,,Croma,124990,139990,11,TRUE,No Cost EMI ₹10000/month,,,,,
+7,Sony Bravia 55-inch 4K OLED TV,Sony,tvs,4.8,2145,Reliance Digital,118990,139990,15,TRUE,Free Installation + Wall Mount,,,,,
+8,LG 55-inch 4K UHD Smart TV (55UR7500PSC),LG,tvs,4.6,3421,Amazon,54990,64990,15,TRUE,Great Indian Festival: Extra 10% off,Ramesh Kumar,4,4 days ago,Good TV for the price. WebOS is very user friendly. Picture quality is decent for watching sports and movies.,178
+8,LG 55-inch 4K UHD Smart TV (55UR7500PSC),Lg,tvs,4.6,3421,Flipkart,53990,64990,17,yes,No Cost EMI from ₹4499/month,,,,,
+8,LG 55-inch 4K UHD Smart TV (55UR7500PSC),LG,TVS,4.6,3421,Vijay Sales,56990,64990,12,TRUE,Free Sony Soundbar worth ₹8999,,,,,
+8,LG 55-inch 4K UHD Smart TV,LG,tvs,,3421,Croma,52990,64990,18,1,Assured Buyback at 50% value,,,,,
+9,Sony WH-1000XM5 Wireless Noise Cancelling,Sony,headphones,4.9,8743,Amazon,28990,34990,17,TRUE,Limited Time Deal,Aditya Verma,5,2 days ago,Best noise cancelling headphones! Comfort is exceptional for long listening sessions. Sound quality is pristine. Worth every rupee!,789
+9,Sony WH-1000XM5 Wireless Noise Cancelling,Sony,Headphones,4.9,8743,Flipkart,29990,34990,14,1,Exchange old headphones up to ₹5000,Pooja Nambiar,5,1 week ago,Perfect for flights and commute. Battery life is amazing. Speak-to-Chat feature is super convenient. Highly recommend!,654
+9,Sony WH-1000XM5,Sony,headphones,4.9,8743,Sony Store,32990,34990,6,TRUE,Extended Warranty for ₹999,Sanjay Reddy,4,2 weeks ago,Excellent headphones but a bit pricey. If budget allows these are the best you can buy. ANC is unmatched!,432
+9,Sony WH-1000XM5 Wireless Noise Cancelling,sony,headphones,4.9,,Croma,27990,34990,20,yes,Croma Assured: Best Price Guarantee,,,,,
+10,Apple AirPods Pro (2nd Generation) with MagSafe,Apple,headphones,4.8,12543,Amazon,24900,29900,17,TRUE,Lightning Deal: Save ₹5000,Ishaan Patel,5,1 day ago,Perfect integration with iPhone! ANC is fantastic. Adaptive audio automatically adjusts based on environment. Love them!,923
+10,Apple AirPods Pro (2nd Generation) with MagSafe,Apple,headphones,4.8,12543,Flipkart,25900,29900,13,yes,Exchange: Get up to ₹3000 off,Divya Sharma,5,3 days ago,Fit is secure and comfortable. Sound quality is excellent. Spatial audio for movies is mind-blowing!,678
+10,Apple AirPods Pro (2nd Generation),apple,headphones,4.8,,Croma,26900,29900,10,1,No Cost EMI from ₹2242/month,,,,,
+10,Apple AirPods Pro (2nd Generation) with MagSafe,Apple,headphones,4.8,12543,Reliance Digital,23900,29900,20,TRUE,Jio Users: Extra ₹1000 off,,,,,
+11,Lenovo IdeaPad Gaming 3 (Ryzen 5),Lenovo,laptops,4.5,3421,Amazon,64990,74990,13,TRUE,Gaming Sale Special,Rohan Desai,5,1 day ago,Amazing gaming laptop for the price. Plays AAA titles at high settings. Cooling is excellent.,287
+11,Lenovo IdeaPad Gaming 3 (Ryzen 5),Lenovo,LAPTOPS,4.5,3421,Flipkart,62990,74990,16,1,Exchange up to ₹12000,,,,,
+11,Lenovo IdeaPad Gaming 3,lenovo,laptops,4.5,3421,Lenovo Store,67990,74990,9,yes,Extended Warranty,,,,,
+11,Lenovo IdeaPad Gaming 3 (Ryzen 5),Lenovo,laptops,4.5,,Reliance Digital,63990,74990,15,TRUE,Free Gaming Mouse,,,,,
+12,Asus VivoBook 15 (Intel i5 8GB),Asus,laptops,4.3,2134,Amazon,45990,54990,16,TRUE,Student Discount Available,Meghna Shah,4,3 days ago,Good laptop for students. Lightweight and battery lasts whole day. Screen could be brighter though.,167
+12,Asus VivoBook 15 (Intel i5 8GB),ASUS,laptops,4.3,2134,Flipkart,46990,54990,,yes,Exchange offer,,,,,
+12,Asus VivoBook 15,Asus,laptops,4.3,2134,Asus Store,49990,54990,9,1,Free Backpack,,,,,
+12,Asus VivoBook 15 (Intel i5 8GB),asus,laptops,,2134,Vijay Sales,44990,54990,18,TRUE,Cashback ₹2000,,,,,
+13,Xiaomi 14 5G (12GB RAM),Xiaomi,mobiles,4.5,3214,Amazon,54999,64999,15,TRUE,Flash Sale Price,Prateek Jain,5,2 days ago,Camera is incredible for the price. MIUI is much better now. Fast charging is super convenient.,445
+13,Xiaomi 14 5G (12GB RAM),Xiaomi,Mobiles,4.5,3214,Flipkart,53999,64999,17,yes,Bank Discount ₹3000,Swati Kulkarni,4,5 days ago,Great value flagship. Performance is smooth. Battery life is good.,312
+13,Xiaomi 14 5G,xiaomi,mobiles,4.5,3214,Mi Store,57999,64999,11,1,Mi Coins Cashback,,,,,
+13,Xiaomi 14 5G (12GB RAM),Xiaomi,mobiles,4.5,,Vijay Sales,52999,64999,18,TRUE,Free Power Bank,,,,,
+14,Google Pixel 8 Pro 256GB,Google,mobiles,4.6,2134,Amazon,86999,99999,13,TRUE,Limited Stock Deal,Aarav Chopra,5,1 day ago,Best camera phone hands down! Clean Android experience. Magic Eraser is amazing!,567
+14,Google Pixel 8 Pro 256GB,Google,mobiles,4.6,2134,Flipkart,84999,99999,15,1,Exchange bonus ₹5000,Riya Bajaj,5,4 days ago,AI features are genuinely useful. Photos look professional. Love the pure Android.,434
+14,Google Pixel 8 Pro,google,mobiles,4.6,2134,Croma,89999,99999,10,yes,No Cost EMI,,,,,
+14,Google Pixel 8 Pro 256GB,Google,mobiles,,2134,Reliance Digital,83999,99999,16,TRUE,Jio Prepaid Benefits,,,,,
+15,Samsung 50-inch Crystal UHD 4K TV,Samsung,tvs,4.5,1654,Amazon,32990,39990,18,TRUE,Diwali Offer,Manoj Tiwari,4,6 days ago,Value for money TV. Good for daily use. Sound could be better but picture is fine.,134
+15,Samsung 50-inch Crystal UHD 4K TV,Samsung,TVs,4.5,1654,Flipkart,31990,39990,20,yes,Big Billion Days Price,,,,,
+15,Samsung 50-inch Crystal UHD 4K TV,samsung,tvs,4.5,,Samsung Store,34990,39990,13,1,1 Year Extra Warranty,,,,,
+15,,Samsung,tvs,4.5,1654,Reliance Digital,30990,39990,23,TRUE,Free Installation,,,,,
+16,JBL Tune 770NC Wireless,JBL,headphones,4.5,5432,Amazon,7999,9999,20,TRUE,Deal of the Day,Siddharth Rao,5,1 day ago,Great bass! Comfortable for long use. ANC works well for this price range.,378
+16,JBL Tune 770NC Wireless,jbl,headphones,4.5,5432,Flipkart,7799,9999,22,1,Plus Member Discount,Tanvi Mehta,4,3 days ago,Good sound quality. Battery lasts long. Value for money.,256
+16,JBL Tune 770NC,JBL,Headphones,4.5,5432,Croma,8499,9999,15,yes,Free Carry Case,,,,,
+16,JBL Tune 770NC Wireless,JBL,headphones,4.5,,Reliance Digital,7599,9999,24,TRUE,Assured Exchange,,,,,
+17,boAt Rockerz 550 Wireless,boAt,headphones,4.3,15432,Amazon,1999,3999,50,TRUE,Bestseller,Aryan Sinha,4,2 days ago,Decent headphones for the price. Bass is good. Build quality could be better.,523
+17,boAt Rockerz 550 Wireless,Boat,headphones,4.3,15432,Flipkart,1899,3999,53,yes,Super Saver Deal,Prachi Agarwal,5,1 week ago,Amazing value! Sound is great for parties. Highly recommend!,687
+17,boAt Rockerz 550,boat,headphones,4.3,15432,boAt Store,2299,3999,43,1,boAt Rewards,,,,,
+17,boAt Rockerz 550 Wireless,boAt,headphones,,15432,Croma,1799,3999,55,TRUE,Limited Time Offer,,,,,
+18,OnePlus Buds Pro 2,OnePlus,headphones,4.4,6543,Amazon,9999,11999,17,TRUE,Lightning Deal,Nisha Verma,5,1 day ago,Best TWS under 10k! ANC is impressive. Fits perfectly.,445
+18,OnePlus Buds Pro 2,Oneplus,headphones,4.4,6543,Flipkart,9799,11999,18,yes,Exchange old earbuds,Kunal Sharma,4,4 days ago,Good sound quality. Battery life is excellent. Worth the money.,334
+18,OnePlus Buds Pro 2,OnePlus,Headphones,4.4,,OnePlus Store,10499,11999,13,1,Red Cable Member Price,,,,,
+18,,OnePlus,headphones,4.4,6543,Reliance Digital,9599,11999,20,TRUE,Jio User Discount,,,,,
+19,Samsung Galaxy Buds2 Pro,Samsung,headphones,4.5,4321,Amazon,14990,17999,17,TRUE,Prime Day Special,Ritesh Gupta,5,2 days ago,Perfect for Galaxy phones. ANC is very good. Sound is balanced.,389
+19,Samsung Galaxy Buds2 Pro,Samsung,headphones,4.5,4321,Flipkart,14490,17999,19,1,Bank Offer ₹2000,Simran Kaur,4,5 days ago,Comfortable fit. Good for calls. Battery could be better.,267
+19,Samsung Galaxy Buds2 Pro,samsung,headphones,4.5,4321,Samsung Store,15990,17999,,yes,Free Wireless Charger,,,,,
+19,Samsung Galaxy Buds2 Pro,Samsung,headphones,,4321,Croma,13990,17999,22,TRUE,Croma Special,,,,,
+20,Mi 50-inch 4K Android TV,Xiaomi,tvs,4.4,4532,Amazon,34999,42999,19,TRUE,Great Indian Sale,Abhishek Modi,5,3 days ago,Best value TV! Android TV works smoothly. Picture quality is very good for the price.,567
+20,Mi 50-inch 4K Android TV,Xiaomi,TVs,4.4,4532,Flipkart,33999,42999,21,yes,Flipkart Big Billion,Pooja Reddy,4,1 week ago,Good TV for streaming. Netflix and Prime work well. Remote is simple.,423
+20,Mi 50-inch 4K Android TV,xiaomi,tvs,4.4,4532,Mi Store,36999,42999,14,1,Mi Member Benefits,,,,,
+20,Mi 50-inch 4K Android TV,Xiaomi,tvs,4.4,,Vijay Sales,32999,42999,23,TRUE,Free Soundbar,,,,,
